@@ -46,36 +46,32 @@ Hi I'm Eduardo Hansen, web systems developer!
 </div>
 <br>
 <br>
- <div class="quadro">
+
+ 
+
+
+  <div class="quadro">
         <h5 class="font-montserrat text-xl sm:text-2xl py-1">Redes sociais</h5>
         <div class="box-whats">
             <a href="https://api.whatsapp.com/send?phone=47991518118">
-                <!-- Adicione o ícone do WhatsApp aqui -->
+                <i class="fab fa-whatsapp"></i>
             </a>
         </div>
         <div class="box-instagram">
             <a href="https://www.instagram.com/eduardohansen.dev/">
-                <!-- Adicione o ícone do Instagram aqui -->
+                <i class="fab fa-instagram"></i>
             </a>
         </div>
         <div class="box-face">
             <a href="https://www.facebook.com/eduardo.eduardohansen">
-                <!-- Adicione o ícone do Facebook aqui -->
+                <i class="fab fa-facebook-f"></i>
             </a>
         </div>
         <div class="box-link">
             <a href="https://www.linkedin.com/in/eduardo-eduardohansen">
-                <!-- Adicione o ícone do LinkedIn aqui -->
+                <i class="fab fa-linkedin-in"></i>
             </a>
         </div>
     </div>
- 
 
-
-<div align="center" >
-  <a href="https://github.com/duhansen">
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=duhansen&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhansen&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-</div>
 
