@@ -47,19 +47,20 @@ Hi I'm Eduardo Hansen, web systems developer!
 <br>
 <br>
  
-<div> 
- 
-  <a href="https://www.instagram.com/eduardohansen.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eduardohansen10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-hansen-520164213/" target="_blank"> 
-  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5547991518118" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-thebadge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardohansen10/)](https://www.linkedin.com/in/eduardohansen10/)
-
-
-
-  <br>
-  
-<div> 
+ <div class="box-contato">
+                    <div class="box-whats" onclick="location.href=' https://api.whatsapp.com/send?phone=47991518118';">
+                        <ion-icon name="logo-whatsapp"></ion-icon>
+                    </div>
+                    <div class="box-instagram" onclick="location.href='https://www.instagram.com/eduardohansen.dev/';">
+                        <ion-icon name="logo-instagram"></ion-icon>
+                    </div>
+                    <div class="box-face" onclick="location.href='https://www.facebook.com/eduardo.eduardohansen';">
+                        <ion-icon name="logo-facebook" width="50px" height="50px"></ion-icon>
+                    </div>
+                    <div class="box-git" onclick="location.href='https://github.com/DuHansen';">
+                        <img class="git" src="img/github-mark.png" alt="GitHub" width="50px" height="50px">
+                    </div>
+                </div>
 
 <div align="center" >
   <a href="https://github.com/duhansen">
