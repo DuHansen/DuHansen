@@ -49,30 +49,10 @@ Hi I'm Eduardo Hansen, web systems developer!
 
  
  ##
-<h5 class="font-montserrat text-xl sm:text-2xl py-1">Redes sociais</h5>
-  <div class="quadro">
-        
-      
-            <a href="https://api.whatsapp.com/send?phone=47991518118">
-                <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-            </a>
-     
-    
-            <a href="https://www.instagram.com/eduardohansen.dev/">
-               <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-            </a>
-        
-      
-            <a href="https://www.facebook.com/eduardo.eduardohansen">
-              <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-            </a>
-       
-  
-            <a href="https://www.linkedin.com/in/eduardo-eduardohansen">
-                <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-            </a>
-    
-    </div>
+<div> 
+  <a href="https://instagram.com/eduardohansen.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/eduardohansen10" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
  
  
 
