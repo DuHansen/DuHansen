@@ -23,7 +23,7 @@ Hi I'm Eduardo Hansen, web systems developer!
  <img align="center" alt="Edu-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 <br>
-🔧 Visual Studio Code | Git | Jest | PostMan | Docker <br>
+🔧 Visual Studio Code | Git | Jest | PostMan | Docker <br><br>
 <div style="display: inline_block">
   <img align="center" alt="Edu-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
   <img align="center" alt="Edu-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
@@ -34,6 +34,7 @@ Hi I'm Eduardo Hansen, web systems developer!
 </div>
 <br>
 🌐 TypeScript | JavaScript | React | TailwindCss | BootStrap | Html | Css
+<br>
 <br>
 <div style="display: inline_block">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
