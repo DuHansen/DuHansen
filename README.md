@@ -14,7 +14,7 @@ Hi I'm Eduardo Hansen, web systems developer!
 🌐 SQL | Java | NodeJS
 <br>
 <div>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,sql" alt="languages">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,docker" alt="languages">
 </div>
 <br>
 
