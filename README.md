@@ -7,11 +7,11 @@ Hi I'm Eduardo Hansen, web systems developer!
 🎓 I like to validate my questions <br>
 👨‍🎓 Student at @senacsc 
 
-## 🛠 Technologies under study 
-🛢 MySQL | MongoDB <br> 
-💻 C | Java | Nodejs<br>
-🔧 Visual Studio Code | Git <br>
-🌐 SQL | Java | NodeJS
+## 🛠 Technologies
+🛢 MySQL | Postgre | MongoDB | Firebase<br> 
+💻 Java | Nodejs<br>
+🔧 Visual Studio Code | Git | Jest | PostMan <br>
+🌐 TypeScript | JavaScript | React | TailwindCss | BootStrap | Html | Css
 <br>
 <div>
   <img src="https://skillicons.dev/icons?i=java,nodejs,docker" alt="languages">
@@ -24,7 +24,13 @@ Hi I'm Eduardo Hansen, web systems developer!
   <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+ <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+ <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
+ <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg">
+ <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+ <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgre/postgre-original.svg">
+ <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 </div>
   
