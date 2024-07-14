@@ -68,3 +68,48 @@ Hi I'm Eduardo Hansen, web systems developer!
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhansen&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 </div>
+<style>
+ .box-contato {
+    padding-right: 20px;
+    height: 60%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Estilos para cada caixa de contato */
+.box-whats,
+.box-instagram,
+.box-git,
+.box-face {
+    width: 50px;
+    height: 50px;
+    margin-left: 25px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Adicione ícones ou conteúdo específico aqui */
+}
+
+/* Exemplo de ícone usando font-awesome (substitua pelo seu próprio conteúdo) */
+.box-whats{
+    color: #FFFFFF;
+    background-color: #25d366;
+}
+
+.box-face{
+    color: #FFFFFF;
+    background-color: #1877f2;
+}
+
+.box-instagram{
+    color: #FFFFFF;
+    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+}
+
+.box-git{
+    background-color: #fff;
+}
+</style>
