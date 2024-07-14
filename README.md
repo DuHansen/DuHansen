@@ -1,8 +1,8 @@
 ## Welcome to my Github 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+Hansen;I'm+23+years+old;I+am+from+Joinville,+SC;I+study+analysis+and+systems+development+at+Senac;+:%29)](https://git.io/typing-svg)
-Hi I'm Eduardo Hansen, web systems developer!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Eduardo+Hansen;I'm+23+years+old;I+am+from+Joinville,+SC;I+study+analysis+and+systems+development+at+Senac;+:%29)](https://git.io/typing-svg)
+
 
 ## 👨🏻‍💻 About me 
 ✈ I love technology and innovation <br>
@@ -56,7 +56,6 @@ Hi I'm Eduardo Hansen, web systems developer!
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DuHansen}/count.svg" /></p> 
 <br>
  </div>
- ##
 <div> 
   <a href="https://instagram.com/eduardohansen.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/eduardohansen10" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
