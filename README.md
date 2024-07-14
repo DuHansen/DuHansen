@@ -53,6 +53,10 @@ Hi I'm Eduardo Hansen, web systems developer!
   <a href = "mailto:eduardohansen10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-hansen-520164213/" target="_blank"> 
   <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5547991518118" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-thebadge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardohansen10/)](https://www.linkedin.com/in/eduardohansen10/)
+
+
+
   <br>
   
 <div> 
