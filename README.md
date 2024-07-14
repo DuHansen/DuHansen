@@ -47,20 +47,7 @@ Hi I'm Eduardo Hansen, web systems developer!
 <br>
 <br>
  
- <div class="box-contato">
-                    <div class="box-whats" onclick="location.href=' https://api.whatsapp.com/send?phone=47991518118';">
-                        <ion-icon name="logo-whatsapp"></ion-icon>
-                    </div>
-                    <div class="box-instagram" onclick="location.href='https://www.instagram.com/eduardohansen.dev/';">
-                        <ion-icon name="logo-instagram"></ion-icon>
-                    </div>
-                    <div class="box-face" onclick="location.href='https://www.facebook.com/eduardo.eduardohansen';">
-                        <ion-icon name="logo-facebook" width="50px" height="50px"></ion-icon>
-                    </div>
-                    <div class="box-git" onclick="location.href='https://github.com/DuHansen';">
-                        <img class="git" src="img/github-mark.png" alt="GitHub" width="50px" height="50px">
-                    </div>
-                </div>
+
 
 <div align="center" >
   <a href="https://github.com/duhansen">
@@ -68,48 +55,4 @@ Hi I'm Eduardo Hansen, web systems developer!
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhansen&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 </div>
-<style>
- .box-contato {
-    padding-right: 20px;
-    height: 60%;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    justify-content: center;
-}
 
-/* Estilos para cada caixa de contato */
-.box-whats,
-.box-instagram,
-.box-git,
-.box-face {
-    width: 50px;
-    height: 50px;
-    margin-left: 25px;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /* Adicione ícones ou conteúdo específico aqui */
-}
-
-/* Exemplo de ícone usando font-awesome (substitua pelo seu próprio conteúdo) */
-.box-whats{
-    color: #FFFFFF;
-    background-color: #25d366;
-}
-
-.box-face{
-    color: #FFFFFF;
-    background-color: #1877f2;
-}
-
-.box-instagram{
-    color: #FFFFFF;
-    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
-}
-
-.box-git{
-    background-color: #fff;
-}
-</style>
