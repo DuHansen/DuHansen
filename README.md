@@ -1,7 +1,7 @@
 ## Welcome to my Github 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Eduardo+Hansen;I'm+23+years+old;I+am+from+Joinville,+SC;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Eduardo+Hansen;I'm+24+years+old;I+am+from+Joinville,+SC;)](https://git.io/typing-svg)
 
 
 ## 👨🏻‍💻 About me 
