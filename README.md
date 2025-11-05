@@ -8,7 +8,7 @@
 ✈ I love technology and innovation <br>
 💼 Intern at the company @TeuCliente <br>
 🎓 I like to validate my questions <br>
-👨‍🎓 Student at @senacsc 
+
 
 ## 🛠 Technologies
 🛢 MySQL | Postgre | MongoDB | Firebase<br> 
