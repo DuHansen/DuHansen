@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About me 
 ✈ I love technology and innovation <br>
-💼 Intern at the company @TeuCliente <br>
+💼 Intern at the company @SimplesAgenda <br>
 🎓 I like to validate my questions <br>
 
 
