@@ -12,7 +12,7 @@
 
 ## 🛠 Technologies
 🛢 MySQL | Postgre | MongoDB | Firebase<br> 
-<div style="display: inline_block">
+<div style="display: inline_flex">
  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
@@ -21,7 +21,7 @@
 <br>
 
 💻 Java | Nodejs<br>
-<div style="display: inline_block">
+<div style="display: inline_flex">
  <img align="center" alt="Edu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="Edu-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
